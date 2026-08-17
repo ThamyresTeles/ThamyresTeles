@@ -1,6 +1,6 @@
 #  Olá, eu sou Thamyres Teles
 
-### 💻 Fullstack Developer | TypeScript · Python · Automação
+### 💻 Desenvolvedora Fullstack | TypeScript · Python · Automação
 
 Desenvolvedora fullstack com foco em soluções práticas, produtividade e automação de processos. Trabalho principalmente com TypeScript, Python, Java, HTML e CSS, criando fluxos que reduzem esforço manual e melhoram a experiência digital.
 
