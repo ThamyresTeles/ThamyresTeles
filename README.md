@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Thamyres Teles
+#  Olá, eu sou Thamyres Teles
 
 ### 💻 Fullstack Developer | TypeScript · Python · Automação
 
